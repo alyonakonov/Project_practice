@@ -1,0 +1,172 @@
+body {
+  background-image: url("photo/circles_journal.png");
+  background-size: 100%;
+  background-color: #222033;
+  font-family: "Montserrat";
+  color: #ffffff;
+  padding-bottom: 200px;
+}
+
+.header {
+  padding: 10px 0 10px;
+}
+
+.header .container {
+  display: flex;
+  align-items: center;
+  width: 1240px;
+  margin-left: 100px;
+}
+
+.logo img {
+  width: 62px;
+}
+
+.menu {
+  margin-left: 300px;
+}
+
+.menu ul {
+  list-style: none;
+  display: flex;
+  gap: 50px;
+}
+
+.menu ul a {
+  font-size: 20px;
+  color: #d7d3e3;
+  font-weight: Medium;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.menu ul a:hover {
+  color: white;
+  -webkit-text-stroke-color: #ffffff;
+  -webkit-text-stroke-width: 0.5px;
+}
+
+.header-line {
+  border: none;
+  height: 2px;
+  background-color: #d7d3e3;
+  margin: 0 100px 0 100px;
+}
+
+.headering {
+  width: 462px;
+  height: 148px;
+  margin: 20px auto 0px 200px;
+  font-family: "Play", sans-serif;
+  font-weight: normal;
+  font-size: 128px;
+  color: #ffffff;
+}
+
+.figure {
+  display: block;
+  margin: -95px 145px 0px 144px;
+}
+
+.star_big1 {
+  margin: -65px 117px 0px 1345px;
+}
+.star_little1 {
+  margin: -40px auto 0px 1400px;
+}
+.star_little2 {
+  width: 41px;
+  margin: 60px auto 0px 698px;
+}
+
+.image-with-text {
+  position: relative;
+}
+
+.text-overlay1 h2 {
+  font-family: "Play", sans-serif;
+  font-weight: normal;
+  font-size: 64px;
+  color: #d7d3e3;
+  margin: -1014px 286px 0px auto;
+  width: 335px;
+}
+
+.text-overlay1 p {
+  font-size: 16px;
+  width: 579px;
+  margin: 20px 165px 0px auto;
+}
+
+.text-overlay2 h2 {
+  font-family: "Play", sans-serif;
+  font-weight: normal;
+  font-size: 64px;
+  color: #d7d3e3;
+  margin: -54px auto 0px 282px;
+  width: 346px;
+}
+
+.text-overlay2 p {
+  font-size: 16px;
+  width: 579px;
+  margin: 20px auto 0px 165px;
+}
+
+.text-overlay3 h2 {
+  font-family: "Play", sans-serif;
+  font-weight: normal;
+  font-size: 64px;
+  color: #d7d3e3;
+  margin: 10px 261px 0px auto;
+  width: 386px;
+}
+
+.text-overlay3 p {
+  font-size: 16px;
+  width: 579px;
+  margin: 20px 165px 0px auto;
+}
+
+.text-overlay4 h2 {
+  font-family: "Play", sans-serif;
+  font-weight: normal;
+  font-size: 64px;
+  color: #d7d3e3;
+  margin: 10px auto 0px 198px;
+  width: 513px;
+}
+
+.text-overlay4 p {
+  font-size: 16px;
+  width: 579px;
+  margin: 20px auto 0px 165px;
+}
+
+.text-overlay5 h2 {
+  font-family: "Play", sans-serif;
+  font-weight: normal;
+  font-size: 64px;
+  color: #d7d3e3;
+  margin: 130px 267px 0px auto;
+  width: 374px;
+}
+
+.text-overlay5 p {
+  font-size: 16px;
+  width: 579px;
+  margin: 20px 165px 0px auto;
+}
+
+.star_little3 {
+  width: 41px;
+  margin: -148px auto 0px 796px;
+}
+
+.star_big2 {
+  margin: -179px auto 0px 83px;
+}
+
+.star_little4 {
+  margin: -20px auto 0px 134px;
+}
